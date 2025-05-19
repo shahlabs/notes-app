@@ -25,9 +25,12 @@ Using eas, we can create Android, iOS builds.
 eas build --platform android
 eas build --platform ios
 ```
-
+<div style="flex:1;">
 <img src="/assets/images/github-readme-images/loginscreen.png" width="200">
 <img src="/assets/images/github-readme-images/registerscreen.png" width="200">
+</div>
+<div style="flex:1">
 <img src="/assets/images/github-readme-images/addNote.png" width="200">
 <img src="/assets/images/github-readme-images/editNote.png" width="200">
 <img src="/assets/images/github-readme-images/deleteNote.png" width="200">
+</div>
