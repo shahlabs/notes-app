@@ -26,4 +26,8 @@ eas build --platform android
 eas build --platform ios
 ```
 
-
+<img src="/assets/images/github-readme-images/loginscreen.png" width="200">
+<img src="/assets/images/github-readme-images/registerscreen.png" width="200">
+<img src="/assets/images/github-readme-images/addNote.png" width="200">
+<img src="/assets/images/github-readme-images/editNote.png" width="200">
+<img src="/assets/images/github-readme-images/deleteNote.png" width="200">
